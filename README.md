@@ -3,8 +3,8 @@
 Description...
 
 ## Data
-- "GPT vs. Human" @[link](https://www.kaggle.com/datasets/heleneeriksen/gpt-vs-human-a-corpus-of-research-abstracts)
-- "ChatGPT Classification Dataset" @[link](https://www.kaggle.com/datasets/mahdimaktabdar/chatgpt-classification-dataset)
+- "GPT vs. Human" [link](https://www.kaggle.com/datasets/heleneeriksen/gpt-vs-human-a-corpus-of-research-abstracts)
+- "ChatGPT Classification Dataset" [link](https://www.kaggle.com/datasets/mahdimaktabdar/chatgpt-classification-dataset)
 
 ## Project Structure
 
