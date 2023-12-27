@@ -1,4 +1,4 @@
-# FDS_Final: AI text detection
+# AI-generated vs Human Generated text detection
 
 **AI generated text detection: is it really an impossible task?**
 
