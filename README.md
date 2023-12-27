@@ -1,18 +1,9 @@
 # FDS_Final: AI text detection
 
-Description...
+Code written and data used for a project on the detection of AI generated text. The projrct is the final project of the course Foundamentals of Data Science (Data Science, Sapienza University).
 
 ## Data
-- "GPT vs. Human" [link](https://www.kaggle.com/datasets/heleneeriksen/gpt-vs-human-a-corpus-of-research-abstracts)
 - "ChatGPT Classification Dataset" [link](https://www.kaggle.com/datasets/mahdimaktabdar/chatgpt-classification-dataset)
-
-## Project Structure
-
-- `Eda_preprocessing.ipynb`: This Jupyter notebook contains EDA and PREPROCESSING of the dataset "GPT vs. Human". 
-
-- `Eda_preprocessing_senteces.ipynb`: This Jupyter notebook contains EDA and PREPROCESSING of the dataset "ChatGPT Classification Dataset" only the part of the senteces.
-
-- `Both_Dataset.ipynb`: This Jupyter notebook contains EDA and PREPROCESSING of both the datasets.
 
 ## Authors
 - [@Camilla Brigandì](https://github.com/camillabrigandi)
